@@ -1,2 +1,3 @@
-# diat_coursework
-course notes and assignments
+# DIAT MTech Automation & Robotics
+### Course Notes
+### Assignments
