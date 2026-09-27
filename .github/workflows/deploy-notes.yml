@@ -64,7 +64,8 @@ jobs:
             </style>
           </head>
           <body>
-            <h1>Handwritten Notes</h1>
+            <h1>Automation and Robotics Class Notes 2026-28</h1>
+            <h2>Bhargava Alapati</h2>
             <ul>
           EOF
 
